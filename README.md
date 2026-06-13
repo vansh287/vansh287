@@ -26,7 +26,7 @@
 
 ### 👋 About
 
-I'm a mathematics student who fell for **computer vision** the moment I could *see* my math working — and that pulled me, almost by accident, all the way into **medical imaging**. THe only Thing I try to chase : turning equations into something you can actually look at. Currently pursuing my **BS-MS Dual Degree at Indian Institute of Science Education & Research, Thiruvananthapuram**.
+I'm a mathematics student who fell for **computer vision** the moment I could *see* my math working — and that pulled me, almost by accident, all the way into **medical imaging**. The only Thing I try to chase : turning equations into something you can actually look at. Currently pursuing my **BS-MS Dual Degree at Indian Institute of Science Education & Research, Thiruvananthapuram**.
 
 - 🔭 Working on **medical image analysis** — segmentation, radiomics, and getting models to point at what a clinician cares about.
 - 🧮 Comfort zone: where **linear algebra, probability, and pixels** overlap.
