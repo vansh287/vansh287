@@ -23,15 +23,12 @@
 
 ### About
 
-Computer vision and deep learning, somewhere between the mathematics and the pixels. I'm interested in how models learn visual representations that stay robust and general, including recognizing what they have never seen before.
+I work on computer vision and deep learning, mostly on how models learn visual representations that stay robust across data they were not trained on.
 
-- Recent work in medical imaging: quantitative ultrasound with **TU Dresden**, multimodal PET/CT oncology with **IIT Jammu**
-- Earlier work on segmentation and anomaly detection in driving scenes, and reinforcement learning for autonomous navigation
-- Curious about most corners of vision, and about the mathematics underneath them
+- Medical imaging: quantitative ultrasound with **TU Dresden**, multimodal PET/CT oncology with **IIT Jammu**
+- Segmentation and anomaly detection in driving scenes, and reinforcement learning for autonomous navigation
 - Open to research internships and master's thesis positions
-- Reach me at **vansh23@iisertvm.ac.in**
-
-More at my [portfolio](https://vansh287.github.io/portfolio/).
+- **vansh23@iisertvm.ac.in** · [portfolio](https://vansh287.github.io/portfolio/)
 
 ---
 
@@ -39,7 +36,7 @@ More at my [portfolio](https://vansh287.github.io/portfolio/).
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,matlab,latex,docker,git,linux,vscode&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,matlab,docker&theme=dark" alt="skills" />
 
 </div>
 
