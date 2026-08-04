@@ -47,11 +47,6 @@ More at my [portfolio](https://vansh287.github.io/portfolio/).
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vansh287&show_icons=true&hide_border=true&theme=tokyonight&icon_color=38BDF8&title_color=38BDF8&hide=issues" alt="stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh287&layout=compact&hide_border=true&theme=tokyonight&title_color=38BDF8" alt="languages" height="165" />
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0e7490,100:0b1220&height=120&section=footer" width="100%" alt=""/>
 
 </div>
