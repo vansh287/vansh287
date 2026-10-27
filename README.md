@@ -14,6 +14,7 @@
 <br/>
 
 <a href="https://vansh287.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-0b1220?style=for-the-badge&logo=githubpages&logoColor=38BDF8" alt="Portfolio"/></a>
+<a href="https://github.com/vansh287/HECKTOR2026-VisionII/blob/main/paper/HECKTOR_16.pdf"><img src="https://img.shields.io/badge/MICCAI%202026-paper-0e7490?style=for-the-badge" alt="MICCAI 2026 paper"/></a>
 <a href="https://www.linkedin.com/in/vansh-pandit-884046272/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:vansh23@iisertvm.ac.in"><img src="https://img.shields.io/badge/Email-c0392b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -25,10 +26,20 @@
 
 I work on computer vision and deep learning, mostly on how models learn visual representations that stay robust across data they were not trained on.
 
-- Medical imaging: quantitative ultrasound with **TU Dresden**, multimodal PET/CT oncology with **IIT Jammu**
+- Medical imaging: multimodal PET/CT oncology with **IIT Jammu**, quantitative ultrasound radiomics in [QuantUS](https://github.com/QuantUS-OpenSource/QuantUS) with **TU Dresden**
 - Segmentation and anomaly detection in driving scenes, and reinforcement learning for autonomous navigation
 - Open to research internships and master's thesis positions
 - **vansh23@iisertvm.ac.in** · [portfolio](https://vansh287.github.io/portfolio/)
+
+---
+
+### Publication
+
+**Geometry Meets Metabolism: Interpretable Segmentation, Staging, and Prognosis in Head and Neck PET/CT**<br/>
+**V. Pandit**\*, O. I. Shah\*, V. Jakhetiya, B. N. Subudhi · MICCAI 2026 HECKTOR Challenge · \*equal contribution<br/>
+[Paper (PDF)](https://github.com/vansh287/HECKTOR2026-VisionII/blob/main/paper/HECKTOR_16.pdf) · [Code](https://github.com/vansh287/HECKTOR2026-VisionII)
+
+One pipeline for head and neck cancer in FDG-PET/CT: tumour and lymph node segmentation, TN staging, and recurrence-free survival, chosen for stability across hospitals.
 
 ---
 
